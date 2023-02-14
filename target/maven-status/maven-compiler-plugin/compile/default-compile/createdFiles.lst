@@ -1,0 +1,8 @@
+pe\edu\upc\demo\services\IPropietarioService.class
+pe\edu\upc\demo\repositories\IPropietarioDAO.class
+pe\edu\upc\demo\util\CORS.class
+pe\edu\upc\demo\DemoApplication.class
+pe\edu\upc\demo\entities\Propietario.class
+pe\edu\upc\demo\config\SwaggerConfig.class
+pe\edu\upc\demo\servicesimpl\PropietarioServiceImpl.class
+pe\edu\upc\demo\controller\PropietarioController.class
